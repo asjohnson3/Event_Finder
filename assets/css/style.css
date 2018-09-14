@@ -1,0 +1,402 @@
+/* INDEX.HTML*/
+
+#body1 {
+ 
+    background: URL(../images/jarfire.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    height: 100%;  
+
+}
+
+.navbar{
+
+    height: 100px;
+}
+
+#logo {
+
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+    color: rgb(230, 170, 20);
+    font-size: 50px;
+    
+ 
+}
+
+#map {
+    height: 100%;
+}
+
+#hotelCard {
+    width: 30%;
+    height: 30%;
+}
+
+#tagLine {
+
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 25px;
+
+}
+
+/* .form-control {
+
+
+} */
+
+#find {
+
+    font-style: bold;
+    color: whitesmoke;
+    font-size: 20px;
+    
+}
+
+#navButton {
+
+    background-color: rgb(41, 209, 153);
+    color: black;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+nav {
+
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 3px;
+    margin-bottom: 3%;
+
+}
+
+form p {
+
+    color: whitesmoke !important;
+    font-size: 16px     !important;
+    
+
+} 
+
+#artist {
+
+    width: 80%;
+    margin-left: 0;
+    
+}
+
+#location {
+
+    width: 30%;
+    margin-left: 11%;
+}
+
+
+
+#card {
+ 
+   
+    width: 70%   !important;
+    margin-left: 22%; 
+    margin-bottom: 5%;
+    border-style: solid !important;
+    border-width: 5px;
+    border-color: lightgray;
+
+} 
+
+
+.card-title {
+
+    font-size: 18px;
+
+} 
+
+/* .card-header {
+
+    font-size: 20px;
+    color: white;
+    background-color: rgb(139, 15, 15);
+   
+}  */
+
+input {
+
+    font-size: 9px;
+
+}
+
+.card-text{
+
+    font-size: 9px;
+} 
+
+label {
+
+    color: whitesmoke !important;
+    font-size: 22px     !important;
+   /* margin-right: 15%; */
+    
+
+}
+
+.btn {
+
+    background-color: rgb(54, 47, 47);
+    color: whitesmoke;
+    font-size: 12px;
+    border-style: none;
+    margin-top: 2%;
+
+}
+
+#pick, #destination, #cities {
+
+    margin-left: 11%;
+    margin-bottom: 3%;
+
+}
+
+footer {
+
+    width: 100%;
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding-left: 40%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    border-top-style: solid;
+    border-top-color:goldenrod;
+    background-color: rgb(49, 47, 47);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 7%;
+
+  
+
+}
+
+
+
+/*font-family: 'Lobster Two', cursive;
+font-family: 'Playball', cursive;
+font-family: 'Megrim', cursive;
+
+/* mresults.HTML*/
+
+
+#body2 {
+ 
+    background-image: URL("images/banjo.jpg");
+    background-position: center     !important;
+    background-repeat: no-repeat        !important;
+    background-size: cover        !important;
+    position: relative             !important;
+    width: 100%;
+    height: 120%;  
+
+}
+
+.col-12 {
+
+    height: 20%;
+}
+
+
+
+/* details.HTML*/
+
+#body3 {
+ 
+    background-image: URL("images/festival.jpg");
+    background-position: center     !important;
+    background-repeat: no-repeat        !important;
+    background-size: cover        !important;
+    position: relative             !important;
+    width: 100%;
+    height: 100%;  
+
+}
+
+#hotels { 
+
+    background-color:whitesmoke;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    margin-left: 10%;
+ 
+}
+
+#choiceEvent {
+
+  
+    background-color: whitesmoke;
+    border-style: solid;
+    border-width: 2px;
+    border-color:white;
+    margin-left: 10%;
+    padding-top: 5%;
+    padding-left: 5%;
+
+ 
+
+}
+
+#hotel {
+
+    font-size: 18px     !important;
+    font-weight: bold   !important;
+
+}
+#eventInfo {
+
+    width: 100%;
+    margin: auto;
+    margin-bottom: 10%;
+ 
+  
+   
+  
+}
+
+.col-md-3 {
+
+    padding-right: 0;
+}
+
+.card {
+
+   
+   
+    margin-bottom: 15%;
+    margin-right: 0;
+    position:inline;
+}
+
+.col-3 {
+
+    margin-right: 20%;
+}
+
+#button3 {
+
+margin-left: 10%;
+margin-top: 0;
+margin-bottom: 5%;
+color: whitesmoke;
+font-size: 15px;
+border-style: solid;
+border-width: 2px;
+border-color: rgb(230, 221, 221);
+
+}
+
+#map {
+    height: 100%;
+}
+
+html, body2 {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.results {
+    display: inline-block;
+    
+}
+
+#eventCards {
+    text-align: center;
+    width: 300px;
+    height: 450px;
+    margin-left: 50px;
+    margin-top:0;
+    margin-bottom: 50px;
+    float: left;
+    border-color: goldenrod;
+    border-style: solid;
+}
+
+#cheader {
+    background: #343a40!important;
+    width: 298px;
+    color: white;
+    margin:0;
+    height:100px;
+    color: goldenrod;
+}
+
+.infor {
+    height: 40px;
+}
+
+
+#theImg {
+    width: 298px;
+    height: 210px;
+}
+
+.btn {
+    padding: 16px;
+    font-size: 20px;
+}
+
+.daterange {
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+}
+
+.container{
+    text-align: center;
+}
+
+#add-movie {
+    font-size: 14px !important;
+
+}
+.row-hotel{
+    text-align: center;
+}
+
+#hotelcard {
+    height: 400px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left:48px;
+    width: 300px;
+    float: left;
+    color: white;
+    background-color:#343a40!important; 
+}
+
+#hotelcardHead{
+    color: goldenrod;
+    height: 300px;
+}
+.artLabel {
+    font-weight: bold;
+    font-size: 30px;
+}
+/* #left {
+    background-color: #343a40!important;
+    padding: 0;
+    border-radius: 5px;
+    padding-left: 0;
+    padding-right: 0;
+
+} */
+
+
+
+
+
